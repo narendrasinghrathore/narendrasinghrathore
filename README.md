@@ -1,6 +1,5 @@
-
 # Narendra Singh Rathore ( FrontEnd Adovocate )
- - 🔭 I’m currently working on multiple tech stacks : **
+ - 🔭 **I’m currently working on multiple tech stacks**
 	 - **Object Oriented JavaScript ( ES6 )**
 	 -  **Angular, Angular.js**
 	 - **React.js**
