@@ -17,5 +17,5 @@
 - 🤔 I’m looking for help with learning new technologies like **AI**
 - 💬 Ask me about **Javascript** and to work on **opensource** projects
 - 📫 How to reach me:  rathoreofficialemail@gmail.com
-- 😄 Pronouns: @nsrathore
+- 😄 Pronouns: Rathore Saab..
 - ⚡ Fun fact:  I also tech blogger, love to share articles on https://medium.com/@nsrathore
